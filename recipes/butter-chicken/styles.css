@@ -1,0 +1,40 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    ;
+}
+
+img {
+    width: 400px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: rgba(244, 227, 207, 0.865);
+    font-size: 40px;
+}
+
+* {
+    background-color: blanchedalmond;
+}
+
+.description {
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: overline;
+}
+
+.info-a,
+.info-b,
+.info-c,
+.info-d {
+    font-weight: 700;
+    color: rgb(4, 4, 81);
+    text-decoration-line: underline;
+}
+
+h2 {
+    font-weight: 700;
+    text-decoration: underline;
+    color: rgb(118, 31, 31);
+}
