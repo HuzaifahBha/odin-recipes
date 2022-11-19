@@ -1,0 +1,29 @@
+body {
+    font-family: 'Times New Roman', Times, serif;;
+}
+.bold {
+    font-size: large;
+    font-weight: 700;
+    color: red;
+}
+img {
+    width: 400px;
+}
+h1 {
+    font-family:Arial, Helvetica, sans-serif Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: rgba(244, 227, 207, 0.865);
+    font-size: 40px;
+}
+* {
+    background-color: blanchedalmond;
+}
+#links {
+    font-size: medium;
+    font-weight: 500;
+    background-color: rgb(253, 185, 96);
+    color: rgba(28, 138, 255, 0.705);
+}
+h4 {
+    color: rgb(243, 107, 148);
+}
